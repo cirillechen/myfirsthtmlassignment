@@ -1,1 +1,48 @@
 # myfirsthtmlassignment
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+	<meta charset="UTF-8">
+	<title>Cirille</title>
+</head>
+<body>
+	<header>
+	<h1>I am Cirille</h1>
+	<nav>
+		<a href = "">One</a>
+		<a href = "">Two</a>
+		<a href = "">Three</a>
+		<a href = "https://www.coursera.org/"> Coursera </a>
+	</nav>
+	</header>
+	<section>
+	<h2>Favorirte Foods</h2>
+		<ul>
+		<li> Ramen </li>
+		<li> Sushi </li>
+		<li> Steak </li>
+		<li> Eggs </li>
+		</ul>
+	</section>
+
+	<section>
+	<h2> Achievements </h2>
+	<p> Progress in this course (100%)
+	<progress value = "1"></progress><br/>Progress in the Specialization(20%) <progress max = "5" value ="1"></progress><br/>  progress in life goal (10%)<progress max ="10" value = "1"></progress></p>
+	</section>
+
+	<section>
+	<h2> More About Me </h2>
+	<summary> My Hobbies </summary>
+	<p> I love traveling, gaming and taking photos. </p>
+	</section>
+
+	<footer>
+		<p><img src = "https://www.intro-webdesign.com/images/newlogo.png" alt="logo">
+		<p> This page was created by insert your name and Colleen van Lent. To learn more about web design, visit Intro to Web Design, 
+		visit <a href="http://www.intro-webdesign.com">Intro to Web Design</a>.
+		</p>
+			</footer>
+		</body>
+		</html>
+
